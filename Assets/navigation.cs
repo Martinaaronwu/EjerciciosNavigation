@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.AI;
 
-public class Navigation : MonoBehaviour
+public class navigation : MonoBehaviour
 
 {
     [SerializeField] UnityEngine.AI.NavMeshAgent agent;
