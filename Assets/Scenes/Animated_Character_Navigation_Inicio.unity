@@ -1030,7 +1030,7 @@ GameObject:
   - component: {fileID: 1982370114}
   - component: {fileID: 1982370113}
   m_Layer: 0
-  m_Name: Capsule
+  m_Name: agent
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
